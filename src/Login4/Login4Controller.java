@@ -30,7 +30,6 @@ public class Login4Controller implements Initializable {
         pane2.setStyle("-fx-background-image: url("+ "/Login/2.jpg" + ")");
         pane3.setStyle("-fx-background-image: url("+ "/Login/3.jpg" + ")");
         pane4.setStyle("-fx-background-image: url("+ "/Login/4.jpg" + ")");
-//C:/Users/user/Documents/NetBeansProjects/MessagesSystem/src/com/ayman/MessagesSystem/View/Login/1.jpg
         backgroundAnimation();
 
     }
